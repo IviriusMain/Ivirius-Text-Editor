@@ -23,10 +23,17 @@ Because this is paid software, we cannot publish the full code, but this reposit
 ## 💬 Social links
 
 `YouTube`: https://www.youtube.com/channel/UC-wq6vlXEW3FBj2jMNVMOkg
+
 `Twitter`: https://twitter.com/IviriusOfficial
+
 `Bluesky`: https://bsky.app/profile/ivirius-official.bsky.social
+
 `Discord`: 
+
 - `Ivirius Official Server`: https://discord.com/invite/uasSwW5U2B
+
 - `Developer Sanctuary`: https://discord.com/invite/3WYcKat
+
 `WhatsApp`: https://whatsapp.com/channel/0029VaHfWsBJ93wPmDfZKy1X
+
 `Email`: iviriuscompany.main@gmail.com
