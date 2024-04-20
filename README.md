@@ -16,6 +16,10 @@ This is Ivirius Text Editor Plus, a **WordPad** app built on **Windows App SDK**
 - `Themes`: for all nostalgia fans out there, we added Windows 7 styles into Ivirius Text Editor Plus, including the well-known Aero glass.
 - `CrimsonUI`: Ivirius Text Editor Plus uses our latest UI design, CrimsonUI (can be toggled off in the settings).
 
+## 🔐 Privacy policy
+
+The privacy policy for Ivirius Text Editor Plus can be found in the setup window.
+
 ## 🛠️ Open source code
 
 Because this is paid software, we cannot publish the full code, but this repository contains some useful tools, converters, classes, helpers and styles from Ivirius Text Editor Plus.
