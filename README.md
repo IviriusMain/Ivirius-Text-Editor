@@ -4,7 +4,7 @@
 
 This is Ivirius Text Editor Plus, a **WordPad** app built on **Windows App SDK** with WinUI 3 for Windows 10 and 11 users.
 
-[SCREENSHOT]
+![image](https://github.com/user-attachments/assets/002c6124-1467-4450-9800-0ba6d64a355c)
 
 ## 📋 Features
 
