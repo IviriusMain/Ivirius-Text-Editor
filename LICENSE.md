@@ -1,6 +1,6 @@
+## Privacy Policy for Ivirius Text Editor Plus
 
-                <TextBlock FontWeight="Bold" Text="Privacy Policy for Ivirius Text Editor Plus" TextWrapping="Wrap" FontSize="11" FontFamily="Microsoft Sans Serif"/>
-                <TextBlock FontStyle="Italic" Text="Last updated: 12th of April 2024." TextWrapping="Wrap" FontSize="11" FontFamily="Microsoft Sans Serif"/>
+*Last updated: 12th of April 2024.*
                 <TextBlock Text="Thank you for choosing Ivirius Text Editor Plus, developed by Ivirius. Your privacy is important to us. This Privacy Policy describes how Ivirius Text Editor Plus collects, uses, and shares your information when you use our application." TextWrapping="Wrap" FontSize="11" FontFamily="Microsoft Sans Serif"/>
                 <StackPanel Spacing="10">
                     <TextBlock FontWeight="Bold" Text="Information We Collect" TextWrapping="Wrap" FontSize="11" FontFamily="Microsoft Sans Serif"/>
