@@ -1,15 +1,17 @@
 ## Privacy Policy for Ivirius Text Editor Plus
 
-*Last updated: 12th of April 2024.*
-                <TextBlock Text="Thank you for choosing Ivirius Text Editor Plus, developed by Ivirius. Your privacy is important to us. This Privacy Policy describes how Ivirius Text Editor Plus collects, uses, and shares your information when you use our application." TextWrapping="Wrap" FontSize="11" FontFamily="Microsoft Sans Serif"/>
-                <StackPanel Spacing="10">
-                    <TextBlock FontWeight="Bold" Text="Information We Collect" TextWrapping="Wrap" FontSize="11" FontFamily="Microsoft Sans Serif"/>
-                    <TextBlock Text="Ivirius Text Editor Plus collects only the minimum necessary information to provide you with a seamless and personalized user experience. The information we collect falls into two main categories:" TextWrapping="Wrap" FontSize="11" FontFamily="Microsoft Sans Serif"/>
-                    <TextBlock Text="1. User Input Data: Ivirius Text Editor Plus may collect specific user input data such as ratings, feedback, and preferences. This information is collected explicitly with your consent and is used to improve our product and tailor it to your needs." TextWrapping="Wrap" FontSize="11" FontFamily="Microsoft Sans Serif"/>
-                    <TextBlock Text="2. Third-Party Services Data: We utilize third-party services such as Microsoft AppCenter and OpenAI's ChatGPT to enhance the functionality of Ivirius Text Editor Plus. These services may collect additional data as outlined in their respective privacy policies. We encourage you to review the privacy policies of these third-party services for more information." TextWrapping="Wrap" FontSize="11" FontFamily="Microsoft Sans Serif"/>
-                </StackPanel>
-                <StackPanel Spacing="10">
-                    <TextBlock FontWeight="Bold" Text="How We Use Your Information" TextWrapping="Wrap" FontSize="11" FontFamily="Microsoft Sans Serif"/>
+*Last updated: 26th of August 2024.*
+
+Thank you for choosing Ivirius Text Editor Plus, developed by Ivirius. Your privacy is important to us. This Privacy Policy describes how Ivirius Text Editor Plus collects, uses, and shares your information when you use our application.
+
+**Information We Collect**
+
+Ivirius Text Editor Plus collects only the minimum necessary information to provide you with a seamless and personalized user experience. The information we collect falls into two main categories:
+
+1. User Input Data: Ivirius Text Editor Plus may collect specific user input data such as ratings, feedback, and preferences. This information is collected explicitly with your consent and is used to improve our product and tailor it to your needs.
+2. Third-Party Services Data: We utilize third-party services such as Microsoft AppCenter and OpenAI's ChatGPT to enhance the functionality of Ivirius Text Editor Plus. These services may collect additional data as outlined in their respective privacy policies. We encourage you to review the privacy policies of these third-party services for more information.
+
+**How We Use Your Information**
                     <TextBlock Text="We use the information we collect for the following purposes:" TextWrapping="Wrap" FontSize="11" FontFamily="Microsoft Sans Serif"/>
                     <TextBlock Text="- Improving User Experience: User input data such as ratings and feedback help us understand your preferences and improve Ivirius Text Editor Plus accordingly." TextWrapping="Wrap" FontSize="11" FontFamily="Microsoft Sans Serif"/>
                     <TextBlock Text="- Personalization: User input data may also be used to personalize your experience within the application, providing you with tailored features and content." TextWrapping="Wrap" FontSize="11" FontFamily="Microsoft Sans Serif"/>
