@@ -1,20 +1,24 @@
-# Ivirius Text Editor Plus
+# Ivirius Text Editor
 
 ## 💡 Information
 
-This is Ivirius Text Editor Plus, a **WordPad** app built on **Windows App SDK** with WinUI 3 for Windows 10 and 11 users.
+This is Ivirius Text Editor, a **WordPad** app built on **Windows App SDK** with WinUI 3 for Windows 10 and 11 users.
 
-![image](https://github.com/user-attachments/assets/002c6124-1467-4450-9800-0ba6d64a355c)
+![image](https://github.com/user-attachments/assets/211b1c3a-950e-452b-a8a7-3f3e18a6a864)
 
 ## 📋 Features
 
-- `RTF editing support`: edit RTF files with all of the necessary options.
-- `Tabs`: multitask with tabs.
-- `Object insertion`: insert images, tables, date & time and screenshots.
-- `AI text generation`: Zippy can help you improve your text (OpenAI API key required).
-- `Setup`: the setup process is separate from the rest of the app, meaning it does not consume additional resources.
-- `Themes`: for all nostalgia fans out there, we added Windows 7 styles into Ivirius Text Editor Plus, including the well-known Aero glass.
-- `CrimsonUI`: Ivirius Text Editor Plus uses our latest UI design, CrimsonUI (can be toggled off in the settings).
+| Feature                 | WordPad                  | Ivirius Text Editor                      | Ivirius Text Editor Plus          |
+| ----------------------- | ------------------------ | ---------------------------------------- | --------------------------------- |
+| **RTF editing support** | 🟡 Basic formatting      | ✅ Extended formatting                  | ✅ Full RTF editing               |
+| **Tabs**                | ❌                       | ✅                                      | ✅                                |
+| **Object insertion**    | 🟡 Legacy RTF objects    | ✅ Images, date/time                    | ✅ Images, date/time, tables, screenshots, etc. |
+| **AI text generation**  | ❌                        | ❌                                     | ✅ Zippy (OpenAI API key required) |
+| **Setup**               | ❌ Integrated installer   | ✅ Lightweight setup                   | ✅ Lightweight setup               |
+| **Themes**              | ❌                        | 🟡 Default WinUI styling               | ✅ Advanced styling (coming soon) |
+| **Home page**           | ❌                        | ❌                                     | ✅                                |
+| **Import and export different formats** | ❌        | ❌                                     | ✅                                |
+| **Word count**          | ❌                        | ✅                                     | ✅                                |
 
 ## 🔐 Privacy policy
 
