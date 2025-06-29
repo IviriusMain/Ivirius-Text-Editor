@@ -17,7 +17,7 @@ This is Ivirius Text Editor, a **WordPad** app built on **Windows App SDK** with
 | **Setup**               | ❌ Integrated installer   | ✅ Lightweight setup                   | ✅ Lightweight setup               |
 | **Themes**              | ❌                        | 🟡 Default WinUI styling               | ✅ Advanced styling (coming soon) |
 | **Home page**           | ❌                        | ❌                                     | ✅                                |
-| **Import and export different formats** | ❌        | ❌                                     | ✅                                |
+| **Import and export different formats** | 🟡 Limited        | ✅                                     | ✅                                |
 | **Word count**          | ❌                        | ✅                                     | ✅                                |
 
 ## 🔐 Privacy policy
