@@ -10,7 +10,7 @@ This is Ivirius Text Editor, a **WordPad** app built on **Windows App SDK** with
 
 | Feature                 | WordPad                  | Ivirius Text Editor                      | Ivirius Text Editor Plus          |
 | ----------------------- | ------------------------ | ---------------------------------------- | --------------------------------- |
-| **RTF editing support** | 🟡 Basic formatting      | ✅ Extended formatting                  | ✅ Full RTF editing               |
+| **RTF editing support** | 🟡 Basic formatting      | 🟡 Extended formatting                  | ✅ Full RTF editing               |
 | **Tabs**                | ❌                       | ✅                                      | ✅                                |
 | **Object insertion**    | 🟡 Legacy RTF objects    | ✅ Images, date/time                    | ✅ Images, date/time, tables, screenshots, etc. |
 | **AI text generation**  | ❌                        | ❌                                     | ✅ Zippy (OpenAI API key required) |
@@ -19,6 +19,7 @@ This is Ivirius Text Editor, a **WordPad** app built on **Windows App SDK** with
 | **Home page**           | ❌                        | ❌                                     | ✅                                |
 | **Import and export different formats** | 🟡 Limited        | ✅                                     | ✅                                |
 | **Word count**          | ❌                        | ✅                                     | ✅                                |
+| **Insert tables, screenshots, symbols, and emojis**          | ❌                        | ❌                                     | ✅                                |
 
 ## 🔐 Privacy policy
 
