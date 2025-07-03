@@ -8,21 +8,19 @@ This is Ivirius Text Editor, a **WordPad** app built on **Windows App SDK** with
 
 ## 📋 Features
 
-| Feature                 | WordPad                  | Ivirius Text Editor                      | Ivirius Text Editor Plus          |
-| ----------------------- | ------------------------ | ---------------------------------------- | --------------------------------- |
-| **RTF editing support** | 🟡 Basic formatting      | 🟡 Extended formatting                  | ✅ Full RTF editing               |
-| **Tabs**                | ❌                       | ✅                                      | ✅                                |
-| **Object insertion**    | 🟡 Legacy RTF objects    | ✅ Images, date/time                    | ✅ Images, date/time, tables, screenshots, etc. |
-| **AI text generation**  | ❌                        | ❌                                     | ✅ Zippy (OpenAI API key required) |
-| **Setup**               | ❌ Integrated installer   | ✅ Lightweight setup                   | ✅ Lightweight setup               |
-| **Themes**              | ❌                        | 🟡 Default WinUI styling               | ✅ Advanced styling (coming soon) |
-| **Home page**           | ❌                        | ❌                                     | ✅                                |
-| **Import and export different formats** | 🟡 Limited        | ✅                                     | ✅                                |
-| **Word count**          | ❌                        | ✅                                     | ✅                                |
-| **Insert tables, screenshots, symbols, and emojis**          | ❌                        | ❌                                     | ✅                                |
-| **New file templates**          | ❌                        | ❌                                     | ✅                                |
-| **Full context menu and selection flyout**          | ❌                        | ❌                                     | ✅                                |
-
+| **Feature**                              | **WordPad**           | **Ivirius Text Editor**  | **Ivirius Text Editor Plus**                   |
+| ---------------------------------------- | --------------------- | ------------------------ | ---------------------------------------------- |
+| **RTF editing support**                  | 🟡 Basic formatting | 🟡 Extended formatting | ✅ Full RTF editing |
+| **Object insertion**                     | 🟡 Legacy RTF objects | 🟡 Images, date/time | ✅ Images, date/time, tables, screenshots, etc. |
+| **Import/export different formats**      | 🟡 Limited | ✅ | ✅ |
+| **Themes**                               | ❌ | 🟡 Default WinUI styling | ✅ Advanced styling *(coming soon)* |
+| **Tabs**                                 | ❌ | ✅ | ✅ |
+| **Setup**                                | ❌ | ✅ | ✅ |
+| **Word count**                           | ❌ | ✅ | ✅ |
+| **Home page**                            | ❌ | ❌ | ✅ |
+| **AI text generation**                   | ❌ | ❌ | ✅ |
+| **New file templates**                   | ❌ | ❌ | ✅ |
+| **Full context menu & selection flyout** | ❌ | ❌ | ✅ |
 ## 🔐 Privacy policy
 
 The privacy policy for Ivirius Text Editor Plus can be found in the setup window.
