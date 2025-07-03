@@ -20,6 +20,8 @@ This is Ivirius Text Editor, a **WordPad** app built on **Windows App SDK** with
 | **Import and export different formats** | 🟡 Limited        | ✅                                     | ✅                                |
 | **Word count**          | ❌                        | ✅                                     | ✅                                |
 | **Insert tables, screenshots, symbols, and emojis**          | ❌                        | ❌                                     | ✅                                |
+| **New file templates**          | ❌                        | ❌                                     | ✅                                |
+| **Full context menu and selection flyout**          | ❌                        | ❌                                     | ✅                                |
 
 ## 🔐 Privacy policy
 
