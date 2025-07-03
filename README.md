@@ -21,13 +21,6 @@ This is Ivirius Text Editor, a **WordPad** app built on **Windows App SDK** with
 | **AI text generation**                   | ❌ | ❌ | ✅ |
 | **New file templates**                   | ❌ | ❌ | ✅ |
 | **Full context menu & selection flyout** | ❌ | ❌ | ✅ |
-## 🔐 Privacy policy
-
-The privacy policy for Ivirius Text Editor Plus can be found in the setup window.
-
-## 🛠️ Open source code
-
-Because this is paid software, we cannot publish the full code, but this repository contains some useful tools, converters, classes, helpers and styles from Ivirius Text Editor Plus.
 
 ## 💬 Social links
 
