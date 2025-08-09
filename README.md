@@ -2,7 +2,7 @@
 
 ## 💡 Information
 
-This is Ivirius Text Editor, a **WordPad** app built on **Windows App SDK** with WinUI 3 for Windows 10 and 11 users.
+The #1 WinUI WordPad replacement in the Microsoft Store. Keep your documents updated with autosave, multitask with tabs, use Windows voice typing, view your document in dark mode, and more!
 
 ![image](https://github.com/user-attachments/assets/211b1c3a-950e-452b-a8a7-3f3e18a6a864)
 
