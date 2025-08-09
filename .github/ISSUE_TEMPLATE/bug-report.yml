@@ -8,7 +8,7 @@ body:
     attributes:
       label: "Describe the bug"
       placeholder: "A clear and concise description of what the bug is."
-  validations:
+    validations:
       required: true
 
   - type: textarea
@@ -41,7 +41,7 @@ body:
       label: "Ivirius Text Editor Edition"
       description: "Which edition of Ivirius Text Editor are you using?"
       options: ["Free", "Plus"]
-  validations:
+    validations:
       required: true
 
   - type: input
@@ -49,7 +49,7 @@ body:
     attributes:
       label: "App Version"
       placeholder: "e.g., v1.2.3.4"
-  validations:
+    validations:
       required: true
 
   - type: textarea
