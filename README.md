@@ -92,4 +92,4 @@ We’d love to hear from you! If you want to report an issue or share suggestion
 
 ---
 
-<img width="400" alt="Zippy" src="https://github.com/user-attachments/assets/1739c935-1c6f-4086-82b3-209374f69abf" />
+<img width="400" alt="Zippy" src="https://github.com/user-attachments/assets/c1b73b22-37fc-49b8-b0f6-9a3f417b34a3" />
