@@ -14,7 +14,7 @@ body:
   - type: textarea
     id: steps
     attributes:
-      label: "To Reproduce"
+      label: "Steps to reproduce"
       description: "Steps to reproduce the behavior:"
       placeholder: |
         1. Go to '...'
@@ -38,7 +38,7 @@ body:
   - type: dropdown
     id: edition
     attributes:
-      label: "Ivirius Text Editor Edition"
+      label: "Edition"
       description: "Which edition of Ivirius Text Editor are you using?"
       options: ["Free", "Plus"]
     validations:
