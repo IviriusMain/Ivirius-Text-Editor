@@ -39,10 +39,8 @@ body:
       label: "Ivirius Text Editor Version"
       description: "Which edition are you using?"
       options:
-        - label: "Free"
-          value: "free"
-        - label: "Plus"
-          value: "plus"
+        "Free"
+        "Plus"
 
   - type: input
     id: version
