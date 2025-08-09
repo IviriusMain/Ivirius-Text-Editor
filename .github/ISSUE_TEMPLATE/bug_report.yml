@@ -1,0 +1,64 @@
+name: "🐞 Bug Report"
+description: "Report a bug or unexpected behavior."
+title: "[Bug] "
+labels: ["🐞 Bug"]
+body:
+  - type: input
+    id: description
+    attributes:
+      label: "Describe the bug"
+      placeholder: "A clear and concise description of what the bug is."
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: "To Reproduce"
+      description: "Steps to reproduce the behavior:"
+      placeholder: |
+        1. Go to '...'
+        2. Click on '...'
+        3. Scroll down to '...'
+        4. See error
+      required: true
+
+  - type: input
+    id: expected
+    attributes:
+      label: "Expected behavior"
+      placeholder: "What you expected to happen."
+      required: true
+
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: "Screenshots"
+      description: "If applicable, add screenshots to help explain your problem."
+      placeholder: "Paste links or markdown image tags here."
+      required: false
+
+  - type: select
+    id: edition
+    attributes:
+      label: "Ivirius Text Editor Version"
+      description: "Which edition are you using?"
+      options:
+        - label: "Free"
+          value: "free"
+        - label: "Plus"
+          value: "plus"
+      required: true
+
+  - type: input
+    id: version
+    attributes:
+      label: "App Version"
+      placeholder: "e.g., 1.2.3"
+      required: true
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: "Additional context"
+      placeholder: "Add any other context about the problem here."
+      required: false
