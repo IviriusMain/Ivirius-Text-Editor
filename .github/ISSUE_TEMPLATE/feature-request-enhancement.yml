@@ -23,7 +23,6 @@ body:
       label: "Edition"
       description: "Which edition are you referring to?"
       options: ["Free", "Plus"]
-      placeholder: "Select edition..."
     validations:
       required: true
 
