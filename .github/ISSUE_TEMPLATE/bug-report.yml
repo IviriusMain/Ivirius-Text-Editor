@@ -33,7 +33,7 @@ body:
       description: "If applicable, add screenshots to help explain your problem."
       placeholder: "Paste links or markdown image tags here."
 
-  - type: select
+  - type: dropdown
     id: edition
     attributes:
       label: "Ivirius Text Editor Version"
